@@ -1,8 +1,8 @@
 {
-  "magic": "IKONOJOY_TEMPLATE",
+  "magic": "IKONOJOY_TEMPLATE_V1",
   "version": 1,
   "revision": 1,
-  "id": "matono-mio-sakurazaka",
+  "id": "sakurazaka_matono_mio",
   "imageResourceType": "external",
   "members": [
     {
@@ -16,30 +16,124 @@
       "name": "シングル",
       "items": [
         {
-          "id": "nobodys_fault",
+          "id": "nf_yori",
           "member": "matono_mio",
           "name": "Nobody's fault ヨリ"
         },
         {
-          "id": "nobodys_fault_chu",
+          "id": "nf_chu",
           "member": "matono_mio",
           "name": "Nobody's fault チュウ"
         },
         {
-          "id": "nobodys_fault_hiki",
+          "id": "nf_hiki",
           "member": "matono_mio",
           "name": "Nobody's fault ヒキ"
-        }
-      ]
-    },
-    {
-      "id": "costume",
-      "name": "衣装",
-      "items": [
+        },
         {
-          "id": "seifuku_yori",
+          "id": "ban_yori",
           "member": "matono_mio",
-          "name": "制服 ヨリ"
+          "name": "BAN ヨリ"
+        },
+        {
+          "id": "ban_chu",
+          "member": "matono_mio",
+          "name": "BAN チュウ"
+        },
+        {
+          "id": "ban_hiki",
+          "member": "matono_mio",
+          "name": "BAN ヒキ"
+        },
+        {
+          "id": "nagaredama_yori",
+          "member": "matono_mio",
+          "name": "流れ弾 ヨリ"
+        },
+        {
+          "id": "nagaredama_chu",
+          "member": "matono_mio",
+          "name": "流れ弾 チュウ"
+        },
+        {
+          "id": "nagaredama_hiki",
+          "member": "matono_mio",
+          "name": "流れ弾 ヒキ"
+        },
+        {
+          "id": "samidare_yori",
+          "member": "matono_mio",
+          "name": "五月雨よ ヨリ"
+        },
+        {
+          "id": "samidare_chu",
+          "member": "matono_mio",
+          "name": "五月雨よ チュウ"
+        },
+        {
+          "id": "samidare_hiki",
+          "member": "matono_mio",
+          "name": "五月雨よ ヒキ"
+        },
+        {
+          "id": "sakurazuki_yori",
+          "member": "matono_mio",
+          "name": "桜月 ヨリ"
+        },
+        {
+          "id": "sakurazuki_chu",
+          "member": "matono_mio",
+          "name": "桜月 チュウ"
+        },
+        {
+          "id": "sakurazuki_hiki",
+          "member": "matono_mio",
+          "name": "桜月 ヒキ"
+        },
+        {
+          "id": "startover_yori",
+          "member": "matono_mio",
+          "name": "Start over! ヨリ"
+        },
+        {
+          "id": "startover_chu",
+          "member": "matono_mio",
+          "name": "Start over! チュウ"
+        },
+        {
+          "id": "startover_hiki",
+          "member": "matono_mio",
+          "name": "Start over! ヒキ"
+        },
+        {
+          "id": "shouninyokkyu_yori",
+          "member": "matono_mio",
+          "name": "承認欲求 ヨリ"
+        },
+        {
+          "id": "shouninyokkyu_chu",
+          "member": "matono_mio",
+          "name": "承認欲求 チュウ"
+        },
+        {
+          "id": "shouninyokkyu_hiki",
+          "member": "matono_mio",
+          "name": "承認欲求 ヒキ"
+        },
+        {
+          "id": "nansai_yori",
+          "member": "matono_mio",
+          "name": "何歳の頃に戻りたいのか？ ヨリ"
+        },
+        {
+          "id": "nansai_chu",
+          "member": "matono_mio",
+          "name": "何歳の頃に戻りたいのか？ チュウ"
+        },
+        {
+          "id": "nansai_hiki",
+          "member": "matono_mio",
+          "name": "何歳の頃に戻りたいのか？ ヒキ"
         }
       ]
     }
