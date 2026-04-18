@@ -1,66 +1,45 @@
 {
-  "title": "櫻坂46 的野美青 生写真管理",
-  "name": "的野美青",
-  "group": "櫻坂46",
+  "magic": "IKONOJOY_TEMPLATE",
+  "version": 1,
+  "revision": 1,
+  "id": "matono-mio-sakurazaka",
+  "imageResourceType": "external",
+  "members": [
+    {
+      "id": "matono_mio",
+      "name": "的野美青"
+    }
+  ],
   "collections": [
     {
-      "category": "シングル",
+      "id": "single",
+      "name": "シングル",
       "items": [
         {
-          "title": "1stシングル",
-          "photos": [
-            {
-              "type": "ヨリ",
-              "image": "https://via.placeholder.com/300x400?text=YORI"
-            },
-            {
-              "type": "チュウ",
-              "image": "https://via.placeholder.com/300x400?text=CHU"
-            },
-            {
-              "type": "ヒキ",
-              "image": "https://via.placeholder.com/300x400?text=HIKI"
-            }
-          ]
+          "id": "nobodys_fault",
+          "member": "matono_mio",
+          "name": "Nobody's fault ヨリ"
         },
         {
-          "title": "2ndシングル",
-          "photos": [
-            {
-              "type": "ヨリ",
-              "image": "https://via.placeholder.com/300x400?text=YORI"
-            },
-            {
-              "type": "チュウ",
-              "image": "https://via.placeholder.com/300x400?text=CHU"
-            },
-            {
-              "type": "ヒキ",
-              "image": "https://via.placeholder.com/300x400?text=HIKI"
-            }
-          ]
+          "id": "nobodys_fault_chu",
+          "member": "matono_mio",
+          "name": "Nobody's fault チュウ"
+        },
+        {
+          "id": "nobodys_fault_hiki",
+          "member": "matono_mio",
+          "name": "Nobody's fault ヒキ"
         }
       ]
     },
     {
-      "category": "衣装別",
+      "id": "costume",
+      "name": "衣装",
       "items": [
         {
-          "title": "制服衣装",
-          "photos": [
-            {
-              "type": "ヨリ",
-              "image": "https://via.placeholder.com/300x400?text=YORI"
-            },
-            {
-              "type": "チュウ",
-              "image": "https://via.placeholder.com/300x400?text=CHU"
-            },
-            {
-              "type": "ヒキ",
-              "image": "https://via.placeholder.com/300x400?text=HIKI"
-            }
-          ]
+          "id": "seifuku_yori",
+          "member": "matono_mio",
+          "name": "制服 ヨリ"
         }
       ]
     }
