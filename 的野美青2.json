@@ -1,0 +1,36 @@
+{"magic":"my-ideals-template","version":1,"revision":15,"id":"matono-mio","name":"櫻坂46 生写真 - 的野美青","description":"櫻坂46 生写真","link":"https://github.com/monaka-ikonoi/my-ideals-template-ikonoijoy","author":"もなか","imageResourceType": "external",
+
+ "members": [
+    {
+      "id": "matono_mio",
+      "name": "的野美青"
+    }
+  ],
+
+  "collections": [
+    {
+      "id": "test",
+      "name": "テスト",
+      "items": [
+        {
+          "id": "matono_yori",
+          "member": "matono_mio",
+          "name": "ヨリ",
+          "image": "https://via.placeholder.com/300x400?text=YORI"
+        },
+        {
+          "id": "matono_chu",
+          "member": "matono_mio",
+          "name": "チュウ",
+          "image": "https://via.placeholder.com/300x400?text=CHU"
+        },
+        {
+          "id": "matono_hiki",
+          "member": "matono_mio",
+          "name": "ヒキ",
+          "image": "https://via.placeholder.com/300x400?text=HIKI"
+        }
+      ]
+    }
+  ]
+}
