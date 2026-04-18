@@ -1,0 +1,68 @@
+{
+  "title": "櫻坂46 的野美青 生写真管理",
+  "name": "的野美青",
+  "group": "櫻坂46",
+  "collections": [
+    {
+      "category": "シングル",
+      "items": [
+        {
+          "title": "1stシングル",
+          "photos": [
+            {
+              "type": "ヨリ",
+              "image": "https://via.placeholder.com/300x400?text=YORI"
+            },
+            {
+              "type": "チュウ",
+              "image": "https://via.placeholder.com/300x400?text=CHU"
+            },
+            {
+              "type": "ヒキ",
+              "image": "https://via.placeholder.com/300x400?text=HIKI"
+            }
+          ]
+        },
+        {
+          "title": "2ndシングル",
+          "photos": [
+            {
+              "type": "ヨリ",
+              "image": "https://via.placeholder.com/300x400?text=YORI"
+            },
+            {
+              "type": "チュウ",
+              "image": "https://via.placeholder.com/300x400?text=CHU"
+            },
+            {
+              "type": "ヒキ",
+              "image": "https://via.placeholder.com/300x400?text=HIKI"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "衣装別",
+      "items": [
+        {
+          "title": "制服衣装",
+          "photos": [
+            {
+              "type": "ヨリ",
+              "image": "https://via.placeholder.com/300x400?text=YORI"
+            },
+            {
+              "type": "チュウ",
+              "image": "https://via.placeholder.com/300x400?text=CHU"
+            },
+            {
+              "type": "ヒキ",
+              "image": "https://via.placeholder.com/300x400?text=HIKI"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
